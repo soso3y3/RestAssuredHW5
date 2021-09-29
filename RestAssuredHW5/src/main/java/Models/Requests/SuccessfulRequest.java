@@ -1,7 +1,5 @@
 package Models.Requests;
 
-import org.json.simple.JSONObject;
-
 public class SuccessfulRequest {
     public String email;
     public String password;
